@@ -4,10 +4,10 @@ body {
     font-family: Monospace;
 }
 
-.hoverpls {
+.hoverpleas {
     background-color: white;
 }
 
-.hoverpls:hover {
+.hoverpleas:hover {
     background-color: black;
 }
